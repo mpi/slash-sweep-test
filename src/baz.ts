@@ -1,4 +1,5 @@
 // This function needs some good name ¯\_(ツ)_/¯
+
 function baz(x: number): number {
   // TODO AI: add proper input validation
   if (n === 1) return 0;
